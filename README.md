@@ -24,7 +24,7 @@ Análisis del comportamiento y gasto de clientes en ecommerce utilizando Power B
 - Dispositivos utilizados
 
 ## Vista previa
-(imagen)
+![Dashboard](DASHBOARD.png)
 
 ## Archivo del proyecto
 ecommerce_sunny.pbix
